@@ -1,4 +1,4 @@
-Pizza Sales Dashboard - Project (Power BI & Microsoft Excel)
+Pizza Sales Dashboard - Project (SQL, Power BI & Microsoft Excel)
 
 
 Project Overview
